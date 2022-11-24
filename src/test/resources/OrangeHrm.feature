@@ -12,7 +12,7 @@ Feature: Functional testing on Orange HRM
     Given The user wants to go to OrangeHRM Website
     When The user wants to enter username and password
     Then The user wants to click on Login button
-    And the user wants to verify that browser landed on "dashboard"
+    And the user wants to verify that browser landed on "Dashboard"
 
 
 

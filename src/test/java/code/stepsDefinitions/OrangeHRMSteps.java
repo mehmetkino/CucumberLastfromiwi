@@ -86,7 +86,7 @@ public class OrangeHRMSteps extends BrowserUtils {
     }
     @Then("The user wants to add login details as following")
     public void the_user_wants_to_add_login_details_as_following(Map<String,String> table) {
-    orangeHRMAdmin.setUsername(table.get("UserName"));
+    orangeHRMAdmin.setFirstname(table.get("UserName"));
     orangeHRMAdmin.setPassword(table.get("Password"));
     orangeHRMAdmin.setRepassword(table.get("Password"));
     orangeHRMAdmin.setStatus(table.get("status"));
