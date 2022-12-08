@@ -2870,3 +2870,277 @@
 2022-11-25 09:54:31 INFO  Hooks:19 - Driver succesfully started  
 2022-11-25 09:54:31 INFO  Hooks:19 - Driver succesfully started  
 2022-11-25 09:54:31 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:49:49 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:49:51 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:49:52 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:49:54 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:49:55 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:49:56 INFO  OrangeHRMLogin:27 - username is entered
+2022-12-03 13:49:56 INFO  guru99TelecomHome:55 - Clicked on Add Customer Button
+2022-12-03 13:49:57 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:49:58 INFO  OrangeHRMLogin:27 - username is entered
+2022-12-03 13:49:58 INFO  guru99TelecomHome:60 - Header Verification is succesfull
+2022-12-03 13:49:58 INFO  guru99TelecomSteps:35 - Header is succesfully verifiedAdd Customer
+2022-12-03 13:49:58 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:49:59 INFO  OrangeHRMHome:46 - Dashboard is verified 
+2022-12-03 13:50:00 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:50:00 ERROR guru99TelecomHome:73 - the option you have provided is not found
+2022-12-03 13:50:00 ERROR guru99TelecomHome:74 - Doneis the provided option
+2022-12-03 13:50:00 INFO  guru99TelecomSteps:41 - Done option is selected
+2022-12-03 13:50:01 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:50:01 INFO  guru99TelecomSteps:46 - First name is succesfully provided
+2022-12-03 13:50:01 INFO  guru99TelecomSteps:48 - Last name is succesfully provided
+2022-12-03 13:50:02 INFO  guru99TelecomSteps:50 - email is succesfully provided
+2022-12-03 13:50:02 INFO  guru99TelecomSteps:52 - Message is succesfully provided
+2022-12-03 13:50:02 INFO  guru99TelecomSteps:54 - Telephone number is succesfully provided
+2022-12-03 13:50:02 INFO  guru99TelecomSteps:60 - header is verified
+2022-12-03 13:50:03 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:50:04 INFO  OrangeHRMLogin:27 - username is entered
+2022-12-03 13:50:04 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:50:06 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:50:07 INFO  OrangeHRMLogin:27 - username is entered
+2022-12-03 13:50:07 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:50:08 INFO  OrangeHRMHome:46 - Dashboard is verified 
+2022-12-03 13:50:08 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:50:10 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:50:11 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:50:12 INFO  guru99TelecomHome:55 - Clicked on Add Customer Button
+2022-12-03 13:50:14 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:14 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:14 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:14 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:14 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:14 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:14 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:14 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:14 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:14 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:14 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:14 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:14 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:14 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:14 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:14 INFO  OrangeHRMLogin:27 - username is entered
+2022-12-03 13:50:14 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:14 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:14 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:14 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:14 INFO  guru99TelecomHome:60 - Header Verification is succesfull
+2022-12-03 13:50:14 INFO  guru99TelecomSteps:35 - Header is succesfully verifiedAdd Customer
+2022-12-03 13:50:15 INFO  OrangeHRMHome:46 - Dashboard is verified 
+2022-12-03 13:50:15 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:50:16 ERROR guru99TelecomHome:73 - the option you have provided is not found
+2022-12-03 13:50:16 ERROR guru99TelecomHome:74 - Pendingis the provided option
+2022-12-03 13:50:16 INFO  guru99TelecomSteps:41 - Pending option is selected
+2022-12-03 13:50:18 INFO  guru99TelecomSteps:46 - First name is succesfully provided
+2022-12-03 13:50:18 INFO  OrangeHRMLogin:27 - username is entered
+2022-12-03 13:50:18 INFO  guru99TelecomSteps:48 - Last name is succesfully provided
+2022-12-03 13:50:18 INFO  guru99TelecomSteps:50 - email is succesfully provided
+2022-12-03 13:50:18 INFO  guru99TelecomSteps:52 - Message is succesfully provided
+2022-12-03 13:50:18 INFO  guru99TelecomSteps:54 - Telephone number is succesfully provided
+2022-12-03 13:50:19 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:50:19 INFO  guru99TelecomSteps:60 - header is verified
+2022-12-03 13:50:20 INFO  OrangeHRMHome:46 - Dashboard is verified 
+2022-12-03 13:50:21 INFO  OrangeHRMLogin:27 - username is entered
+2022-12-03 13:50:22 INFO  OrangeHRMHome:46 - Dashboard is verified 
+2022-12-03 13:50:25 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:25 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:25 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:25 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:25 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:25 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:25 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:25 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:26 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:26 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:26 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:26 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:26 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:26 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:26 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:26 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:26 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:26 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:26 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:27 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:50:28 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:28 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:28 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:28 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:28 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:28 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:28 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:28 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:28 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:28 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:28 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:28 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:28 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:28 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:28 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:28 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:28 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:28 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:28 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:29 INFO  OrangeHRMLogin:27 - username is entered
+2022-12-03 13:50:29 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:50:30 INFO  OrangeHRMHome:46 - Dashboard is verified 
+2022-12-03 13:50:32 INFO  OrangeHRMLogin:27 - username is entered
+2022-12-03 13:50:32 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:50:33 INFO  OrangeHRMHome:46 - Dashboard is verified 
+2022-12-03 13:50:36 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:36 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:36 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:36 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:36 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:36 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:36 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:36 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:36 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:36 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:36 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:36 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:36 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:36 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:36 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:36 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:36 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:36 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:36 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:38 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:38 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:38 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:38 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:38 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:38 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:38 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:38 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:38 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:38 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:38 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:38 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:38 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:38 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:38 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:38 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:38 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:38 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:38 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:38 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:50:40 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:50:40 INFO  OrangeHRMLogin:27 - username is entered
+2022-12-03 13:50:41 INFO  OrangeHRMHome:46 - Dashboard is verified 
+2022-12-03 13:50:42 INFO  OrangeHRMLogin:27 - username is entered
+2022-12-03 13:50:43 INFO  OrangeHRMHome:46 - Dashboard is verified 
+2022-12-03 13:50:46 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:46 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:46 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:46 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:46 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:47 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:47 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:47 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:47 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:47 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:47 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:47 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:47 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:47 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:47 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:47 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:47 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:47 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:47 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:48 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:48 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:48 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:48 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:48 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:48 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:48 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:48 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:48 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:48 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:48 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:48 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:48 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:48 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:48 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:48 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:48 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:48 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:48 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:48 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:50:50 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:50:50 INFO  OrangeHRMLogin:27 - username is entered
+2022-12-03 13:50:52 INFO  OrangeHRMHome:46 - Dashboard is verified 
+2022-12-03 13:50:52 INFO  OrangeHRMLogin:27 - username is entered
+2022-12-03 13:50:54 INFO  OrangeHRMHome:46 - Dashboard is verified 
+2022-12-03 13:50:57 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:57 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:57 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:57 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:57 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:57 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:57 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:57 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:57 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:57 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:57 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:57 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:57 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:57 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:57 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:57 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:57 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:57 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:57 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:57 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:50:59 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:59 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:59 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:59 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:59 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:59 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:59 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:59 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:59 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:59 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:59 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:59 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:59 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:59 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:59 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:59 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:59 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:59 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:59 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:50:59 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:51:01 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:51:01 INFO  OrangeHRMLogin:27 - username is entered
+2022-12-03 13:51:03 INFO  OrangeHRMHome:46 - Dashboard is verified 
+2022-12-03 13:51:03 INFO  OrangeHRMLogin:27 - username is entered
+2022-12-03 13:51:05 INFO  OrangeHRMHome:46 - Dashboard is verified 
+2022-12-03 13:51:10 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:51:10 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:51:10 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:51:10 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:51:10 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:51:10 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:51:10 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:51:10 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:51:10 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:51:10 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:51:10 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:51:10 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:51:10 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:51:10 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:51:10 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:51:10 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:51:10 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:51:10 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:51:10 ERROR OrangeHRMAdmin:114 - Nationality provided is not found in the records
+2022-12-03 13:51:22 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:51:47 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:52:06 INFO  Hooks:19 - Driver succesfully started  
+2022-12-03 13:52:25 INFO  Hooks:19 - Driver succesfully started  

@@ -18,8 +18,6 @@ public class Hooks extends BrowserUtils {
         Driver.getDriver();
         logger.info("Driver succesfully started  ");
         Driver.getDriver().manage().window().maximize();
-
-
     }
 
 
