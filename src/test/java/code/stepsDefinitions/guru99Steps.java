@@ -81,11 +81,11 @@ public class guru99Steps extends BrowserUtils {
         guru99GatewayPaymentPage.setCardNumber(dataTable.get("CreditNumber"));
     }
     @Then("user wants to enter Card Informations as")
-    public void user_wants_to_enter_Card_information_as(List<List> datatable){
-        guru99GatewayPaymentPage.setCardNumber(datatable.get(0).get(1).toString());
-        guru99GatewayPaymentPage.setMonth(datatable.get(0).get(2).toString());
-        guru99GatewayPaymentPage.setYear(datatable.get(0).get(3).toString());
-        guru99GatewayPaymentPage.setCvv_code(datatable.get(0).get(4).toString());
+    public void user_wants_to_enter_Card_information_as(List<List<String> > datatable){
+        guru99GatewayPaymentPage.setCardNumber(datatable.get(0).get(1));
+        guru99GatewayPaymentPage.setMonth(datatable.get(0).get(2));
+        guru99GatewayPaymentPage.setYear(datatable.get(0).get(3));
+        guru99GatewayPaymentPage.setCvv_code(datatable.get(0).get(4));
 
 
     }
