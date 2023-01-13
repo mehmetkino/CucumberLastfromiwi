@@ -1,5 +1,6 @@
+@Smoke1
 Feature: Fill out Conctact us form
-  @TCcontactus
+#  @TCcontactus
   Scenario Outline: Contact us scenario with different set of data
     Given user navigates to contact us website
     When User fills the form given sheetName "<Sheetname>" and rowNumber <RowNumber>
@@ -10,7 +11,7 @@ Feature: Fill out Conctact us form
     |contactus|     0         |
     |contactus |    1    |
 
-    @TCDENEME
+  #  @TCDENEME
     Scenario: Contact us scenario with different set of d
       Given user navigates to contact us website
       When User fills the form given sheetName "<Strs>" and rowNumber "<row>"
