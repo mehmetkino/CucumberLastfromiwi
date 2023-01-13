@@ -2,14 +2,14 @@ package code.pages;
 
 import code.utils.BrowserUtils;
 import code.utils.Driver;
-import org.apache.log4j.Logger;
+
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class OrangeHRMLogin extends BrowserUtils {
 
-    private static final Logger logger=Logger.getLogger(OrangeHRMLogin.class);
+
     @FindBy(id = "txtUsername")
     private WebElement userName;
 
@@ -24,9 +24,9 @@ public class OrangeHRMLogin extends BrowserUtils {
     public void setUserName(String username) {
         staticWait(1);
         userName.sendKeys(username);
-        logger.info("username is entered");
+
         if (username==null){
-            logger.error("the username is empty ");
+
         }
     }
     public void setDatafromExcel(String username, String passWord){

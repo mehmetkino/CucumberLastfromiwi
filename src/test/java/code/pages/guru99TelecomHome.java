@@ -2,7 +2,6 @@ package code.pages;
 
 import code.utils.BrowserUtils;
 import code.utils.Driver;
-import org.apache.log4j.Logger;
 import org.junit.Assert;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
@@ -15,7 +14,7 @@ public class guru99TelecomHome extends BrowserUtils {
     public guru99TelecomHome(){
         PageFactory.initElements(Driver.getDriver(),this);
     }
-   private static final Logger logger=Logger.getLogger(guru99TelecomHome.class);
+
 
 
     @FindBy(xpath = "//div//h3//a[.='Add Customer']") // or (a[='Add Customer'])[1]   same
@@ -52,12 +51,12 @@ public class guru99TelecomHome extends BrowserUtils {
 
     public void setAddCustomer() {
             addCustomer.click();
-            logger.info("Clicked on Add Customer Button");
+
     }
 
     public void setAddCustomerHeader(String expected) {
         Assert.assertEquals(AddCustomerHeader.getText(),expected);
-        logger.info("Header Verification is succesfull");
+
     }
 
     public void setBackgroundCheck(String  backgroundChecK) {
@@ -68,11 +67,7 @@ public class guru99TelecomHome extends BrowserUtils {
                 js.executeScript("arguments[0].click();",each);
 
             }
-            else {
 
-                logger.error("the option you have provided is not found");
-                logger.error(backgroundChecK+"is the provided option");
-            }
         }
     }
 

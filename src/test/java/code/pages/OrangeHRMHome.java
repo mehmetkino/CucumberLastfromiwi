@@ -2,7 +2,7 @@ package code.pages;
 
 import code.utils.BrowserUtils;
 import code.utils.Driver;
-import org.apache.log4j.Logger;
+
 import org.junit.Assert;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -15,7 +15,7 @@ public class OrangeHRMHome extends BrowserUtils {
         PageFactory.initElements(Driver.getDriver(),this);
     }
 
-    private static final Logger logger=Logger.getLogger(OrangeHRMHome.class);
+
 
 
 
@@ -43,7 +43,7 @@ public class OrangeHRMHome extends BrowserUtils {
     public void setDashboard(){
         String expected="Dashboard";
         Assert.assertEquals(dashBoard.getText(),expected);
-        logger.info("Dashboard is verified ");
+
     }
     public void setDashboard(String str){
 
@@ -56,12 +56,12 @@ public class OrangeHRMHome extends BrowserUtils {
 
     public void setFirstName(String firstname) {
         firstName.sendKeys(firstname);
-        logger.info("firstname succesfully added");
+
     }
 
     public void setLastName(String lastname) {
         lastName.sendKeys(lastname);
-        logger.info(lastname+" is corretly entered");
+
     }
 
     public void setSaveButton() {

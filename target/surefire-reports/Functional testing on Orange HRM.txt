@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Functional testing on Orange HRM
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.455 s - in Functional testing on Orange HRM

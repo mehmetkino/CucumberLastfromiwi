@@ -2,7 +2,6 @@ package code.pages;
 
 import code.utils.BrowserUtils;
 import code.utils.Driver;
-import org.apache.log4j.Logger;
 import org.junit.Assert;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -17,7 +16,6 @@ public class OrangeHRMAdmin extends BrowserUtils {
         PageFactory.initElements(Driver.getDriver(),this);
     }
 
-    private static final Logger logger=Logger.getLogger(OrangeHRMAdmin.class);
 
     @FindBy(id = "menu_admin_viewAdminModule")
     private WebElement adminButton;
@@ -111,10 +109,10 @@ public class OrangeHRMAdmin extends BrowserUtils {
            if( each.getText().equals(nationality)){
             Assert.assertEquals(each.getText(),nationality);
            } else if (!each.getText().equals(nationality)) {
-               logger.error("Nationality provided is not found in the records");
+
 
            } else if (nationality.isEmpty()) {
-               logger.error("No nationality is provided");
+               System.out.println("No nationality is provided");
            }
 
         }
