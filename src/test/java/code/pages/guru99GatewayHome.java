@@ -15,7 +15,7 @@ public class guru99GatewayHome extends BrowserUtils {
     @FindBy(xpath ="//input[@type='submit']")
     private WebElement buyNow;
 
-//  sout
+//  sout  @mehmet
 
 
     public WebElement tt;
