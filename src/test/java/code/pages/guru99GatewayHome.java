@@ -15,7 +15,10 @@ public class guru99GatewayHome extends BrowserUtils {
     @FindBy(xpath ="//input[@type='submit']")
     private WebElement buyNow;
 
+//  sout
 
+
+    public WebElement tt;
     @FindBy(xpath ="//select[@name='quantity']")
     private WebElement quantityDropDown;
 
